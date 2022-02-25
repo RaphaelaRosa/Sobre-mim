@@ -1,0 +1,34 @@
+PERFIL PESSOAL
+
+Sou Analista de dados e estou cursando o último semestre de Análise e Desenvolvimento de sistema, tenho muito conhecimento com desenvolvimento de relatórios tanto Back como Front.
+
+REALIZAÇÕES
+
+Aprovada no processo de Potencial PCP
+1º Lugar - Utilização Design UX e UI
+2º Lugar - Estruturação de dados
+
+RESUMO DE CARREIRA
+
+Analista de dados
+
+Criação de processos ETL e relatórios/dashboards utilizando as plataformas SSIS e SSRS.
+Análise e solução de incidentes/problemas em relatórios e bases de dados.
+Implantação de projetos utilizando a nova ferramenta de BI, MITRA.
+Criação de processos utilizando as linguagens PostgreSQL e BigQuery.
+Criação de protótipos de relatórios na plataforma Figma.
+
+Assistente de dados
+
+Criação de processos ETL e relatórios/dashboards utilizando as plataformas SSIS e SSRS.
+Análise e solução de incidentes/problemas em relatórios e bases de dados.
+
+Monitora de qualidade
+
+Monitoria de ligações a fim de avaliar o serviço prestado e reportar de acordo com planilha de pontuação.
+Repasse de novos procedimentos e esclarecimento de dúvidas.
+
+Histórico acadêmico
+
+Unopar
+Situação: Cursando
